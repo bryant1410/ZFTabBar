@@ -4,7 +4,7 @@
 ### 效果演示：
 ![image](https://github.com/renzifeng/ZFTabBar/raw/master/ScreenShot.png)
 
-#用法示例
+# 用法示例
 
 ## 初始化TabBar
 ``` objc
